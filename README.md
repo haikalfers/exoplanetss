@@ -1,10 +1,10 @@
 # Disusun Oleh | Kelompok 6 2023E:
 ### 1. Haikal Ferdian Saputra 		(23091397154)
-## 2. Firza Mushermansyah 		(23091397155)
-## 3. Adip Setiaputra			(23091397158)
-## 4. Vergi Mutia Rahmasyani 	(23091397171)
-## 5. Pingky Dwi Safitri		(23091397172)
-## 6. Ahmad Fadli Nur Rohim	(23091397175)
+### 2. Firza Mushermansyah 		(23091397155)
+### 3. Adip Setiaputra			(23091397158)
+### 4. Vergi Mutia Rahmasyani 	(23091397171)
+### 5. Pingky Dwi Safitri		(23091397172)
+### 6. Ahmad Fadli Nur Rohim	(23091397175)
 
 
 # exoplanet
